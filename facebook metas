@@ -1,0 +1,3 @@
+	<meta property="og:title" content="<?php echo get_the_title($articleid); ?>" /> 
+	<meta property="og:description" content="<?php echo esc_html(get_the_content($articleid));?>" />
+	<meta property="og:image" content="http://www.inquirer.net/wp-content/uploads/2014/09/inquirerlogo.jpg" />
